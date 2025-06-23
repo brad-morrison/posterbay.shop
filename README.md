@@ -1,12 +1,40 @@
-# React + Vite
+# Poster Bay Online Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Requirements
 
-Currently, two official plugins are available:
+- Interactive landing page
+- Navbar/Menu
+- Item components
+- Footer
+- Login/account system
+- Checkout system
+- Shopping Basket
+- Social links/Integration
+- Item detail page
+- Contact page
+- Contact form
+- Reputation/Reviews section
+- 3D Interactive product viewer
+- 3D Interactive 'Poster wall'/Wishlist
+- Newsletter signup
+- Cookies acceptance
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Pages breakdown
 
-## Expanding the ESLint configuration
+- Home Page
+- Contact Page
+- About Page?
+- Item Search/Filter Page
+- Account page
+- Login/Signup page
+- Poster wall page
+- Item detail page
+- Checkout page
+- Shopping basket page
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Component breakdown
+
+- NavBar
+- Product Card
+- Primary Button
+- Secondary Button
